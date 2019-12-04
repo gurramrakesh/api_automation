@@ -2,9 +2,6 @@ package com.tracfone.rest.jbehave.tests;
 
 import com.tracfone.rest.jbehave.steps.ValidateUserSteps;
 
-/**
- * @author aiet
- */
 public class ValidateUserStoryTest extends AbstractStory {
 
     @Override

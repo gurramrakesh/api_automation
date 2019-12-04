@@ -28,9 +28,6 @@ import java.util.Properties;
 import static org.jbehave.core.io.CodeLocations.codeLocationFromClass;
 import static org.jbehave.core.reporters.Format.*;
 
-/**
- * @author aiet
- */
 public abstract class AbstractStory extends JUnitStories {
 
     abstract String storyName();
