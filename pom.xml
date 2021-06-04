@@ -17,7 +17,7 @@
         <wiremock.version>2.21.0</wiremock.version>
         <karate.version>0.6.1</karate.version>
         <httpcore.version>4.4.5</httpcore.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jbehave.version>4.1</jbehave.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <commons-io.version>2.6</commons-io.version>
